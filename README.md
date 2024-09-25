@@ -1,7 +1,7 @@
 # Build a Fullstack AI Healthcare Chatbot with Redis, React, FastAPI and GPT
 
-[![Version](https://img.shields.io/badge/version-0.0.1-brightgreen)][web_link]
-[![Contributors](https://img.shields.io/badge/contributors-1-blue)][web_link]
+![Version](https://img.shields.io/badge/version-0.0.1-brightgreen)
+![Contributors](https://img.shields.io/badge/contributors-1-blue)
 
 Created: May 05, 2024
 Author: Tuong Hoang
